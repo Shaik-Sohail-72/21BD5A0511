@@ -1,0 +1,47 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+  }
+  h1{
+    font-family: "Montserrat-Bold";
+    color: #FFFFFF;
+  }
+  p {
+    color: #DEF5E5;
+  }
+  .container-fluid{
+    padding: 1.5% 7%;
+  }
+  .colored-section {
+    background-color: #00ADB5;
+    color: #fff;
+  }
+  .navbar {
+    padding: 0 0 2 rem;
+  }
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  .nav-item {
+    padding: 0 18px;
+  }
+
+  #title {
+    background-color: #00ADB5;
+    color: #fff;
+    text-align: left;
+  }
+  
+  @media (max-width: 1028px) {
+    #title {
+      text-align: center;
+    }
+  
+    .title-image {
+      position: static;
+      transform: rotate(0);
+    }
+  }
+  

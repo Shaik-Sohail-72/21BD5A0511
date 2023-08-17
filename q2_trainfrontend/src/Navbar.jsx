@@ -7,7 +7,7 @@ const Navbar = () => {
       <section className="colored-section" id="title">
         <div style={navStyle}>
           <nav className="navbar navbar-expand-lg navbar-dark">
-            <a className="navbar-brand" href="/">Train Central</a><button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02">
+            <a className="navbar-brand" href="/">Train</a><button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02">
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
